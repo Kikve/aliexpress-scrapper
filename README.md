@@ -72,6 +72,7 @@ This example will scrape of product listings related to “laptops” and save t
 <div align="center">
   <img src="media/aliexpress_console.png" width="550">
 </div>
+
 ---
 
 ## 📝 Sample Output
@@ -84,6 +85,7 @@ This example will scrape of product listings related to “laptops” and save t
 <div align="center">
   <img src="media/aliexpress_excel.png"  width="550">
 </div>
+
 ---
 
 ## 📊 Jupyter Notebook
